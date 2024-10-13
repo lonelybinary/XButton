@@ -1,0 +1,26 @@
+# Syntax Coloring Map For XButton
+
+# Classes (KEYWORD1)
+XButton	KEYWORD1
+
+# Methods and Functions (KEYWORD2)
+setup	KEYWORD2
+loop	KEYWORD2
+getCurrentState	KEYWORD2
+setOnPressCallback	KEYWORD2
+setOnHoldCallback	KEYWORD2
+setOnReleaseCallback	KEYWORD2
+setOnSingleClickCallback	KEYWORD2
+setOnSingleLongClickCallback	KEYWORD2
+setOnSingleShortClickCallback	KEYWORD2
+setOnDoubleClickCallback	KEYWORD2
+setOnTripleClickCallback	KEYWORD2
+setPressedHoldTime	KEYWORD2
+setClickTime	KEYWORD2
+debug	KEYWORD2
+
+# Constants (LITERAL1)
+IDLE	LITERAL1
+PRESSED	LITERAL1
+HOLDING	LITERAL1
+RELEASED	LITERAL1
