@@ -38,6 +38,7 @@ void setup() {
 void loop() {
     myButton.loop();
 }
+```
 
 ## Public Methods
 
@@ -144,7 +145,6 @@ void loop() {
 
 ## License
 
-<<<<<<< HEAD
 MIT License
 
 Copyright (c) 2024 Lonely Binary
@@ -166,6 +166,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-=======
-This library is released under the MIT License.
->>>>>>> 5472cd3c556e4e1b4702e107893a72865749a317
